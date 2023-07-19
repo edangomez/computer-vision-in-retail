@@ -1,0 +1,3 @@
+# Has my package arrived?
+
+This repo contains the code for trained and deployed computer vision model for retail application intended to identify whether or not an image includes an object of interest, i.e., a package in the front porch. Data was captured with a PiCamera and transitted to an S3 bucket for image ingestion, model training and deployment using Databicks ML runtime. This project is based on the article [Enabling Computer Vision Applications With the Data Lakehouse](https://www.databricks.com/blog/2021/12/17/enabling-computer-vision-applications-with-the-data-lakehouse.html)
